@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VegetableUi</string>
+    <string name="text">By continuining you are indicating that you agree to the</string>
+    <string name="privcy">Privcy policy</string>
+    <string name="terms">terms</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
